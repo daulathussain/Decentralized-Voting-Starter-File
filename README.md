@@ -26,10 +26,6 @@ Kindly follow the following Instructions to run the project in your system and i
   WATCH: Setup & Demo Of Project
 ```
 
-#### Download Final Source Code
-
-https://www.theblockchaincoders.com/SourceCode
-
 #### Install Vs Code Editor
 
 ```https://code.visualstudio.com/download
