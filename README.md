@@ -77,6 +77,13 @@ If you download the final source code then you can follow the following instruct
   NPM: 8.19.2
 ```
 
+#### PInata
+
+```https://www.pinata.cloud/
+  PINATA API KEY
+  PINATA SECRET KEY
+```
+
 
 #### Test Faucets
 
